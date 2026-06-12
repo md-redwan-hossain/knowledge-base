@@ -1,0 +1,1 @@
+InnoDB engine of MySql uses a clustered index architecture. The primary key is the table data — the B-tree leaf nodes literally store the actual row data. There is no separate index structure; the data and the index are the same physical thing.
